@@ -47,9 +47,9 @@ DV
 
 **Solution Approach**:
 
-1)EDA and necessary feature engineering is done on the data to make it apt before feeding it to the ML models
+1)EDA and necessary feature engineering is done on the data to make it apt before feeding it to the ML models. Some features are either unrelated to the target varible or interrleated with other feature attributes
 
-2)Classification task is performed using various approaches like Logistic Regression and tree based models-Decision Tree,Random Forest,GradientBoosting with GridSearch
+2)Classification task is performed using various approaches like Logistic Regression and tree based models-Decision Tree,Random Forest,GradientBoosting,XGBoost. Hyperparameter tuning is done on the above mentioned models using GridSearchCV
 
 After applying the various approaches we observed the following results
 
