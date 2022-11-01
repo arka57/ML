@@ -90,8 +90,3 @@ Gradient Boosting Machine
 
 
 
-
-Solution Approach:
-
-1)EDA and necessary feature engineering is done on the data to make it apt before feeding it to the ML models
-2)Classification task is performed using various approaches like Logistic Regression and tree based models-Decision Tree,Random Forest,GradientBoosting with GridSearch 
